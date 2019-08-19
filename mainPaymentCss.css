@@ -1,0 +1,18 @@
+label{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(0, 89, 255, 0.685)
+}
+thead{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(0, 89, 255, 0.685)
+
+}
+tbody{
+    font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
